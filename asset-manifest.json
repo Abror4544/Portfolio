@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cabinet/static/css/main.a6a4bfc3.chunk.css",
-    "main.js": "/cabinet/static/js/main.2a9b896a.chunk.js",
-    "main.js.map": "/cabinet/static/js/main.2a9b896a.chunk.js.map",
+    "main.js": "/cabinet/static/js/main.65e5c9ca.chunk.js",
+    "main.js.map": "/cabinet/static/js/main.65e5c9ca.chunk.js.map",
     "runtime-main.js": "/cabinet/static/js/runtime-main.e8bd4b67.js",
     "runtime-main.js.map": "/cabinet/static/js/runtime-main.e8bd4b67.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/cabinet/static/css/2.7fc9bc2b.chunk.css",
@@ -33,6 +33,7 @@
     "static/media/segway.cf36695d.png": "/cabinet/static/media/segway.cf36695d.png",
     "static/media/startup.bae395f6.png": "/cabinet/static/media/startup.bae395f6.png",
     "static/media/sushi.15a56f32.png": "/cabinet/static/media/sushi.15a56f32.png",
+    "static/media/tofate.39cffc98.png": "/cabinet/static/media/tofate.39cffc98.png",
     "static/media/tradercamp.9b899ab7.png": "/cabinet/static/media/tradercamp.9b899ab7.png",
     "static/media/vsk.b5b82d00.jpg": "/cabinet/static/media/vsk.b5b82d00.jpg"
   },
@@ -41,6 +42,6 @@
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.50c817c0.chunk.js",
     "static/css/main.a6a4bfc3.chunk.css",
-    "static/js/main.2a9b896a.chunk.js"
+    "static/js/main.65e5c9ca.chunk.js"
   ]
 }
