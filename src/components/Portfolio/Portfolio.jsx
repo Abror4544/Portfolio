@@ -16,6 +16,8 @@ import UzbMap from '../../assets/images/UzbMap.jpg';
 import startup from '../../assets/images/startup.png';
 import burgerimg from '../../assets/images/burgerimg.jpg';
 import macintoshimg from '../../assets/images/macintoshimg.png';
+import belli from '../../assets/images/belli.png';
+import tofate from '../../assets/images/tofate.png';
 import "../Main/Main.css";
 import "./Portfolio.css";
 import '../../assets/css/all.min.css';
@@ -92,14 +94,14 @@ const Portfolio = (props) => {
                             </div>
                             <div className="projectBlockBlack" data-aos="zoom-in" data-aos-offset="-200" data-aos-duration="1000">
                                 <div className="img">
-                                    <a target="_blank" rel="noreferrer" href="https://abror4544.github.io/PhotoCage/"><img src={photocageimg}
+                                    <a target="_blank" rel="noreferrer" href="https://abror4544.github.io/tofate/"><img src={tofate}
                                         alt="" /></a>
                                 </div>
                                 <div className="prDescription">
-                                    <a target="_blank" rel="noreferrer" className="zoomHover" href="https://abror4544.github.io/PhotoCage/">
-                                        <h3>PhotoCage</h3>
+                                    <a target="_blank" rel="noreferrer" className="zoomHover" href="https://abror4544.github.io/tofate/">
+                                        <h3>ToFate</h3>
                                     </a>
-                                    <p>Галерея</p>
+                                    <p>Интерактивное реалити шоу</p>
                                 </div>
                             </div>
                             <div className="projectBlockRed" data-aos="zoom-in" data-aos-offset="-200" data-aos-duration="1000">
@@ -190,14 +192,14 @@ const Portfolio = (props) => {
                             </div>
                             <div className="projectBlockRed" data-aos="zoom-in" data-aos-offset="-200" data-aos-duration="1000">
                                 <div className="img">
-                                    <a target="_blank" rel="noreferrer" href="https://abror4544.github.io/UzbekistanMap/"><img src={UzbMap}
+                                    <a target="_blank" rel="noreferrer" href="https://abror4544.github.io/belli/"><img src={belli}
                                         alt="" /></a>
                                 </div>
                                 <div className="prDescription">
-                                    <a target="_blank" rel="noreferrer" className="zoomHover" href="https://abror4544.github.io/UzbekistanMap/">
-                                        <h3>Карта Узбекистана</h3>
+                                    <a target="_blank" rel="noreferrer" className="zoomHover" href="https://abror4544.github.io/belli/">
+                                        <h3>Belli</h3>
                                     </a>
-                                    <p>Карта Узбекистана и его столицы Ташкент в CSS </p>
+                                    <p>Маркетинговые стратегии</p>
                                 </div>
                             </div>
                             <div className="projectBlockBlack" data-aos="zoom-in" data-aos-offset="-200" data-aos-duration="1000">
